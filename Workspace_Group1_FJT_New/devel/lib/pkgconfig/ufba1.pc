@@ -1,0 +1,8 @@
+prefix=/home/flaviofabricio/Workspace_Group1_FJT/devel
+
+Name: ufba1
+Description: Description of ufba1
+Version: 0.0.1
+Cflags: 
+Libs: -L/home/flaviofabricio/Workspace_Group1_FJT/devel/lib 
+Requires: 
