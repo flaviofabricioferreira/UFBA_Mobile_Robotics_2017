@@ -1,6 +1,6 @@
 # UFBA_Mobile_Robotics_2017
 
-Artigo desenvolvido para a disciplina Tópicos de Engenharia Elétrica II (ENG735)- Robótica Móvel da UFBA(Universidade Federal da Bahia. Usou-se um robô diferencial- Turtlebot versão 3, no ROS (Robot Operating System) e com simulação de mapa no Gazebo e no RViz onde se pode observar a navegação do Turtlebot no mapa evitando os obstáculos e através do Rviz determinar a posição desejada para o robô se deslocar até esse ponto.
+Artigo [(Link)](https://github.com/flaviofabricioferreira/UFBA_Mobile_Robotics_2017/blob/master/Artigo%20Rob%C3%B3tica%20M%C3%B3vel-%20ENG735-%20Fl%C3%A1vio-%20J%C3%A9ssica%20e%20Takaaki%20.pdf) desenvolvido para a disciplina Tópicos de Engenharia Elétrica II (ENG735)- Robótica Móvel da UFBA(Universidade Federal da Bahia. Usou-se um robô diferencial- Turtlebot versão 3, no ROS (Robot Operating System) e com simulação de mapa no Gazebo e no RViz onde se pode observar a navegação do Turtlebot no mapa evitando os obstáculos e através do Rviz determinar a posição desejada para o robô se deslocar até esse ponto.
 
 ![Photo1](https://github.com/flaviofabricioferreira/UFBA_Mobile_Robotics_2017/blob/master/Screenshots/Artigo.png)
 
